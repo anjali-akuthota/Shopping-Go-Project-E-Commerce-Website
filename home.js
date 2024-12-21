@@ -32,7 +32,7 @@ const Home = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://example.com/headphone-banner.jpg"
+            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Felectronic-product-banner&psig=AOvVaw3vmqmYs3V_YYRqMzmPA2Hg&ust=1734842618946000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDx2NiGuIoDFQAAAAAdAAAAABAE"
             alt="Second slide"
           />
           <Carousel.Caption>
@@ -47,13 +47,13 @@ const Home = () => {
         <h2>Our Products</h2>
         <div className="product-list">
           <div className="product-item">
-            <img src="https://example.com/iphone.jpg" alt="iPhone" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tomsguide.com%2Fnews%2Fiphone-15&psig=AOvVaw0435Z50YWUcgW_4Zj4W7T7&ust=1734842682017000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCJrvWGuIoDFQAAAAAdAAAAABAE" alt="iPhone" />
           </div>
           <div className="product-item">
-            <img src="https://example.com/samsung.jpg" alt="Samsung Galaxy" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com%2Fin%2Fexplore%2Fbrand%2F5-best-5g-android-mobile-phones-in-india%2F&psig=AOvVaw10NJLj9I4fibyW62qZar8j&ust=1734842735620000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj8mI6HuIoDFQAAAAAdAAAAABAE" alt="Samsung Galaxy" />
           </div>
           <div className="product-item">
-            <img src="https://example.com/oneplus.jpg" alt="OnePlus" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oneplus.in%2Fpress-photos&psig=AOvVaw0rCXG6xG8KOwkFgexXck7h&ust=1734842764414000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCs9JqHuIoDFQAAAAAdAAAAABAE" alt="OnePlus" />
           </div>
         </div>
       </div>
