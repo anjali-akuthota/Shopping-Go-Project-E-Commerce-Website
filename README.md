@@ -46,5 +46,5 @@ Font Awesome: A popular icon library.
 <b>Routing:</b> React Router DOM facilitates declarative routing within the application, allowing for navigation between different views and components.
 
 <b>Authentication:</b> User authentication and session management are implemented using industry-standard practices, ensuring secure access to user accounts and sensitive information.
-<h3>Back end</h3>
-<a href='https://github.com/Pragadeeshwaran15/main_Back_end'>Click here</a>
+
+
